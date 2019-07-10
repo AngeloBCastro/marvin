@@ -1,4 +1,3 @@
-function marcopolo(){
-    return("marvin")
+function mostrarNome() {
+    console.log("marvin")
 }
-console.log(marcopolo())
