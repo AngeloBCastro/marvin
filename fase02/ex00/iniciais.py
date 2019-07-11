@@ -1,3 +1,4 @@
 def iniciais(palavra):
-    string=palavra
-    print(string[0:3])
+
+    print(palavra[0:3])
+    
