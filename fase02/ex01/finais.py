@@ -1,3 +1,3 @@
 def finais(palavra):
-    print(palavra[-3:])
+    return(palavra[-3:])
     
