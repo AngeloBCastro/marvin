@@ -1,4 +1,4 @@
 def penultimo(palavra):
-    print(palavra[-2])
+    return(palavra[-2])
     
     
