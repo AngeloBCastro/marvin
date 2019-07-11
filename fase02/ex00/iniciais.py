@@ -1,4 +1,4 @@
 def iniciais(palavra):
 
-    print(palavra[0:3])
+    return(palavra[0:3])
     
