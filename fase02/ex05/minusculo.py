@@ -1,2 +1,4 @@
 def minusculo(palavra):
-    return palavra.lower()
+    makeitBUMden=palavra[0]
+    return makeitBUMden.lower()
+
