@@ -1,6 +1,6 @@
 def nove(num):
     x = str(num)
     if (x[-1] == "9"):
-        return "true"
+        return true
     else:
-        return "false"
+        return false
