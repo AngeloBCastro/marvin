@@ -1,6 +1,6 @@
 def abc(x):
     if(x[0] in ['a', 'b', 'c', 'A', 'B', 'C']):
-        return 'true'
+        return true
     else:
-        return 'false'
+        return false
 
