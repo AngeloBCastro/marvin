@@ -10,4 +10,4 @@ def alfabetoMilitar(vogal):
     if vogal in ["u", "U"]:
         return "uniform"
     else:
-        return "false"
+        return false
